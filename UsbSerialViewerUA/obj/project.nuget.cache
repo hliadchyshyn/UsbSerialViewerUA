@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zU9MhVFg06s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skubenyk\\RiderProjects\\UsbSerialViewerUA\\UsbSerialViewerUA\\UsbSerialViewerUA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skubenyk\\.nuget\\packages\\system.codedom\\10.0.0-preview.7.25380.108\\system.codedom.10.0.0-preview.7.25380.108.nupkg.sha512",
+    "C:\\Users\\Skubenyk\\.nuget\\packages\\system.management\\10.0.0-preview.7.25380.108\\system.management.10.0.0-preview.7.25380.108.nupkg.sha512"
+  ],
+  "logs": []
+}
