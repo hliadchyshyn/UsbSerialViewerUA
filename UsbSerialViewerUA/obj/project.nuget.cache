@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "zU9MhVFg06s=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Skubenyk\\RiderProjects\\UsbSerialViewerUA\\UsbSerialViewerUA\\UsbSerialViewerUA.csproj",
+  "dgSpecHash": "q9Oj312y94Q=",
+  "success": false,
+  "projectFilePath": "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/UsbSerialViewerUA.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Skubenyk\\.nuget\\packages\\system.codedom\\10.0.0-preview.7.25380.108\\system.codedom.10.0.0-preview.7.25380.108.nupkg.sha512",
-    "C:\\Users\\Skubenyk\\.nuget\\packages\\system.management\\10.0.0-preview.7.25380.108\\system.management.10.0.0-preview.7.25380.108.nupkg.sha512"
+    "/Users/hliadchyshyn/.nuget/packages/microsoft.windowsdesktop.app.ref/9.0.13/microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1302",
+      "level": "Error",
+      "message": "You are running the 'restore' operation with an 'HTTP' source: http://kv-nexus.b2bsoft.com/repository/nuget-hosted/. NuGet requires HTTPS sources. To use an HTTP source, you must explicitly set 'allowInsecureConnections' to true in your NuGet.Config file. Refer to https://aka.ms/nuget-https-everywhere for more information.",
+      "projectPath": "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/UsbSerialViewerUA.csproj",
+      "filePath": "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/UsbSerialViewerUA.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

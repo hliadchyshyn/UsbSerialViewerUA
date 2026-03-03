@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Skubenyk\\RiderProjects\\UsbSerialViewerUA\\UsbSerialViewerUA\\UsbSerialViewerUA.csproj": {}
+    "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/UsbSerialViewerUA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Skubenyk\\RiderProjects\\UsbSerialViewerUA\\UsbSerialViewerUA\\UsbSerialViewerUA.csproj": {
+    "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/UsbSerialViewerUA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skubenyk\\RiderProjects\\UsbSerialViewerUA\\UsbSerialViewerUA\\UsbSerialViewerUA.csproj",
+        "projectUniqueName": "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/UsbSerialViewerUA.csproj",
         "projectName": "UsbSerialViewerUA",
-        "projectPath": "C:\\Users\\Skubenyk\\RiderProjects\\UsbSerialViewerUA\\UsbSerialViewerUA\\UsbSerialViewerUA.csproj",
-        "packagesPath": "C:\\Users\\Skubenyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skubenyk\\RiderProjects\\UsbSerialViewerUA\\UsbSerialViewerUA\\obj\\",
+        "projectPath": "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/UsbSerialViewerUA.csproj",
+        "packagesPath": "/Users/hliadchyshyn/.nuget/packages/",
+        "outputPath": "/Users/hliadchyshyn/RiderProjects/UsbSerialViewerUA/UsbSerialViewerUA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Skubenyk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/hliadchyshyn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
         ],
         "sources": {
+          "http://kv-nexus.b2bsoft.com/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -60,6 +61,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -68,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Skubenyk\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
