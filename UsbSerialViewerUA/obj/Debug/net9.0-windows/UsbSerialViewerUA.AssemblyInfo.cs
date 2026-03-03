@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsbSerialViewerUA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+770a6f6e98037caecb34c7287e663128f1423297")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsbSerialViewerUA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsbSerialViewerUA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
